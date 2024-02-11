@@ -1,0 +1,46 @@
+OOP
+Group Number 26
+
+Vehicle Rental System
+
+
+IT22131706
+Wijegunawardana W A D D D
+
+---Individual Contribution---
+
+Login
+Vehicle Rent (Car, Van, Bike)
+Vehicle Return (Car, Van, Bike)
+Financial
+
+
+
+IT22220738
+Liyanage L D
+
+---Individual Contribution---
+
+Employee
+Profile
+Change Password
+
+
+
+IT22066398
+K A U Hettiarachchi
+
+---Individual Contribution---
+
+Vehicle Registration (Car, Van, Bike)
+Dashboard
+
+
+
+IT22564054
+Harikirushna T
+
+---Individual Contribution---
+
+Customer Registration
+Admin
